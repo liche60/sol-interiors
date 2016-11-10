@@ -1,0 +1,11 @@
+{
+  "theme": "id-theme",
+  "productionAssetURL": "",
+  "aws": {
+    "params": {
+      "Bucket": ""
+    },
+    "accessKeyId": "",
+    "secretAccessKey": ""
+  }
+}
